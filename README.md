@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m  learning NodeJs, React, JS & Tailwind CSS <br>👨‍💻 All of my projects are available at github.com/Rohitpanti<br>🧑‍💻 I am Always Curious & will not stop until its done.
+<br>🌱 I’m  learning NodeJs, React, JS & Tailwind CSS <br>💻 All of my projects are available at github.com/Rohitpanti<br>🧑‍💻 I am Always Curious & will not stop until its done.
 
 
 # 💻 Technical Stack:
@@ -20,7 +20,7 @@
  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ## Version Control:
-Git	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 🌐 Socials:
@@ -32,8 +32,6 @@ Git	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&lo
  ###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?theme=nord)
 
----
-[![](https://visitcount.itsvg.in/api?id=Rohitpanti&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 
   

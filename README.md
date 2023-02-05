@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m  learning NodeJs, React, JS & Tailwind CSS <br>👨‍💻 All of my projects are available at github.com/Rohitpanti<br>
+<br>🌱 I’m  learning NodeJs, React, JS & Tailwind CSS <br>👨‍💻 All of my projects are available at github.com/Rohitpanti<br>🧑‍💻 I am Always Curious & will not stop until its done.
 
 
 # 💻 Technical Stack:
@@ -24,7 +24,13 @@ Git	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&lo
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-b-854268219/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itnaptihor) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCuiH_h88i5qHTQr3awmxQ3A)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-b-854268219/) 
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itnaptihor)
+ [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCuiH_h88i5qHTQr3awmxQ3A)
+ 
+ 
+ ###  Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?theme=nord)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rohitpanti&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
